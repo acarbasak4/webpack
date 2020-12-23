@@ -4,3 +4,4 @@ import {Employee} from "./app2";
 
 Person.Test();
 Employee.Test();
+console.log("File Changed.");
